@@ -10,8 +10,7 @@ const  NavList = () => {
             as="li"
             variant="small"
             color="white"
-            className={`${styles.navlink}`}
-          >
+            className={`${styles.navlink}`}>
             <a href={link.path} className="flex items-center hover:text-blue-500 transition-colors">
               {link.display}
             </a>

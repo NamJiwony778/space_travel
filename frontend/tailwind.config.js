@@ -5,14 +5,14 @@ module.exports = withMT({
   theme: {
     screens: {
       sm: "540px",
-      md: "720px",
+      md: "760px",
       lg: "960px",
       "lg-max": { max: "960px" },
       xl: "1140px",
       "2xl": "1320px",
     },
     colors: {
-     transperent: "transparent",
+     transparent: "transparent",
      white: "#FFFFFF"
     },
     fontFamily: {
